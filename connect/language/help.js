@@ -12,8 +12,9 @@ Permanen : 20k
 Liat Harga JasaRun :
 20k Tanpa Ada Kadaluarsa! 
 
-Ini Nomor Bot Saya Jika Ingin Tes Fitur! 
-https://wa.me/62882708632799
+Ini Nomor Bot Saya Jika Ingin Tes Fitur!
+ 
+wa.me/6288270863279
 
 Jika Owner Belum Membalas Chat Kakak Mohon Di tunggu Ya Mungkin Lagi Sibuk! 
 `

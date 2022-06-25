@@ -458,8 +458,8 @@ url: 'https://github.com/DanzGamtevk75'
 }
 }, {
 urlButton: {
-displayText: 'My Youtube',
-phoneNumber: 'https://youtube.com/channel/UCAMpDDfVjxdxKS8i8MLrSEQ'
+displayText: 'Nomor Bot',
+phoneNumber: 'https://wa.me/62882708632799'
 }
 }, {
 quickReplyButton: {

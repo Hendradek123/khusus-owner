@@ -453,17 +453,17 @@ case 'menu': case 'help': case 'p': {
 menu =`${(help(prefix, author, botname, owner))}`
 let btn = [{
 urlButton: {
-displayText: 'My Website',
-url: 'https://github.com/Lexxy24'
+displayText: 'My Github',
+url: 'https://github.com/DanzGamtevk75'
 }
 }, {
 urlButton: {
 displayText: 'My Youtube',
-phoneNumber: 'https://youtube.com/channel/UCGDk88W54RJOgk6b1p42NVg'
+phoneNumber: 'https://youtube.com/channel/UCAMpDDfVjxdxKS8i8MLrSEQ'
 }
 }, {
 quickReplyButton: {
-displayText: 'Status Bot',
+displayText: 'Status Owner',
 id: 'ping'
 }
 }, {

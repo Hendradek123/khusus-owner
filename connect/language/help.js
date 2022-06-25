@@ -1,16 +1,16 @@
 exports.help = (prefix, author, botname, owner) => {
 return `
 _*=>=>=>=>=>=>=>=>=>=>=>*_
-*( BOT WA MULTI DEVICE )*
+*( BOT INI KHUSUS OWNER UNTUK JUAL/BELI BOT! )*
 _*=>=>=>=>=>=>=>=>=>=>=>*_
-❑ _*MY SERVER BOT INFO*_
+❑ _*MY SERVER OWNER INFO*_
 *× Owner Name : ${global.author}*
-*× Bot Name: ${global.botname}*
+*× Owner Name: ${global.botname}*
 *× My Owner : ${global.owner}*
-*× My Team : Neoxy Team*
+*× My Team : Danzz Team*
 _*=>=>=>=>=>=>=>=>=>=>=>*_
 
-*∆ [ SIMPEL BOT MENU ] ∆*
+*∆ [ SIMPEL OWNER MENU ] ∆*
 
 ❑ *OTHERS MENU*
 • #script

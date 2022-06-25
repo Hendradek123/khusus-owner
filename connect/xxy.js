@@ -457,9 +457,19 @@ displayText: 'My Github',
 url: 'https://github.com/DanzGantevk75'
 }
 }, {
-quickReplyButton: {
+urlButton: {
 displayText: 'Nomor Bot',
-phoneNumber: 'https://wa.me/62882708632799'
+url: 'https://wa.me/62882708632799'
+}
+}, {
+urlButton: {
+displayText: 'My YouTube',
+url: 'https://youtube.com/channel/UCAMpDDfVjxdxKS8i8MLrSEQ'
+}
+}, {
+quickReplyButton: {
+displayText: 'Via SewaBot',
+id: 'nomor allpay : 088270863279 berlaku di Dana/Gopay/ShopeePay,Kirim Bukti Pembayaran Kepada Owner!'
 }
 }, {
 quickReplyButton: {

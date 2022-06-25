@@ -14,7 +14,7 @@ Liat Harga JasaRun :
 
 Ini Nomor Bot Saya Jika Ingin Tes Fitur!
  
-wa.me/6288270863279
+wa.me/62882708632799
 
 Jika Owner Belum Membalas Chat Kakak Mohon Di tunggu Ya Mungkin Lagi Sibuk! 
 `

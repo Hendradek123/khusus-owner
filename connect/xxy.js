@@ -468,11 +468,6 @@ url: 'https://youtube.com/channel/UCAMpDDfVjxdxKS8i8MLrSEQ'
 }
 }, {
 quickReplyButton: {
-displayText: 'Via SewaBot',
-id: 'nomor allpay : 088270863279 berlaku di Dana/Gopay/ShopeePay,Kirim Bukti Pembayaran Kepada Owner!'
-}
-}, {
-quickReplyButton: {
 displayText: 'Status Owner',
 id: 'ping'
 }

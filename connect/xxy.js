@@ -454,10 +454,10 @@ menu =`${(help(prefix, author, botname, owner))}`
 let btn = [{
 urlButton: {
 displayText: 'My Github',
-url: 'https://github.com/DanzGamtevk75'
+url: 'https://github.com/DanzGantevk75'
 }
 }, {
-urlButton: {
+quickReplyButton: {
 displayText: 'Nomor Bot',
 phoneNumber: 'https://wa.me/62882708632799'
 }

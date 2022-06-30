@@ -459,7 +459,7 @@ url: 'https://github.com/DanzGantevk75'
 }, {
 urlButton: {
 displayText: 'Nomor Bot',
-url: 'https://wa.me/62882708632799'
+url: 'https://wa.me/6289519526554'
 }
 }, {
 urlButton: {
@@ -473,7 +473,7 @@ id: 'ping'
 }
 }, {
 quickReplyButton: {
-displayText: 'Contact Owner',
+displayText: 'Contact Bot',
 id: 'owner'
 }
 }]

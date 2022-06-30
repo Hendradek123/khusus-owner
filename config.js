@@ -4,7 +4,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // MY OTHERS
-global.owner = ['6288270863279']
+global.owner = ['6289519526554']
 global.premium = ['6288270863279']
 global.botname = 'Bot Khusus Owner Untuk Jualan!'
 global.packname = 'Khusus Owner'
